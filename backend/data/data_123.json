@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2025-06-05T15:02:06Z",
+    "id": 1749116077041,
+    "title": "bus",
+    "amount": 2,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-06-05T15:05:27Z",
+    "id": 1749116135055,
+    "title": "asdf",
+    "amount": 12,
+    "category": "Rent"
+  },
+  {
+    "date": "2025-06-05T15:05:35Z",
+    "id": 1749116251789,
+    "title": "sdad",
+    "amount": 12,
+    "category": "Food"
+  }
+]

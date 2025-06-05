@@ -1,3 +1,0 @@
-This is a sample text file.
-It will be used to test our file reading functionality.
-The server will read this file and return its contents when requested. 
